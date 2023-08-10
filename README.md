@@ -19,7 +19,7 @@
 <li>ul: Styles for unordered lists, adjusting the margin to remove default indentation.</li></ul><ul>
  
  # Classes:
-<ul>.<li>container: Applied to the main container 'div', styling it with a border, font, width, margin, and padding.</li>
+<ul><li>.container: Applied to the main container 'div', styling it with a border, font, width, margin, and padding.</li>
 <li>.desc: Applied to description boxes, setting their border, padding, and margin.</li>
 <li>.list: Applied to list items (boxes) within the unordered list.</li>
 <li>.para: Applied to paragraphs, adjusting their margin and alignment.</li>
