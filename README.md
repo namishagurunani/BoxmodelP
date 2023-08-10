@@ -1,7 +1,7 @@
 # Box Model UI
 ![image](https://github.com/namishagurunani/BoxmodelP/assets/126158413/ce9a61a2-0c89-4eca-93ae-d553aeb8c623)
  # HTML Code:
-<ul list-style-type:⚫><li>Inside the 'body':</li>
+<ul list-style-type🟠><li>Inside the 'body':</li>
 <li>There's a 'div' element with the class "container" that contains various other elements.</li>
 <li> Two 'div' elements with the class "desc" represent boxes with different content.</li>
 <li> An 'ul' (unordered list) element contains two list items, each with a 'div' having the class "list".</li>
