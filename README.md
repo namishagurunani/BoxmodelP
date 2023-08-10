@@ -1,11 +1,11 @@
 # Box Model UI
 ![image](https://github.com/namishagurunani/BoxmodelP/assets/126158413/ce9a61a2-0c89-4eca-93ae-d553aeb8c623)
-# HTML Code:
-Inside the 'body':
-There's a 'div' element with the class "container" that contains various other elements.
-Two 'div' elements with the class "desc" represent boxes with different content.
-An 'ul' (unordered list) element contains two list items, each with a 'div' having the class "list".
-A 'p' element with the class "para" contains text along with a 'button' and an 'a' (anchor) element.
+ # HTML Code:
+<ul><li>Inside the 'body':</li>
+- There's a 'div' element with the class "container" that contains various other elements.
+- Two 'div' elements with the class "desc" represent boxes with different content.
+- An 'ul' (unordered list) element contains two list items, each with a 'div' having the class "list".
+- A 'p' element with the class "para" contains text along with a 'button' and an 'a' (anchor) element.
 
 # Sumbission Required
 - Hosted Link:[click here](https://namishagurunani.github.io/BoxmodelP/)
