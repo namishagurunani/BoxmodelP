@@ -2,10 +2,10 @@
 ![image](https://github.com/namishagurunani/BoxmodelP/assets/126158413/ce9a61a2-0c89-4eca-93ae-d553aeb8c623)
  # HTML Code:
 <ul><li>Inside the 'body':</li>
-<li><li> There's a 'div' element with the class "container" that contains various other elements.</li>
-<li><li> Two 'div' elements with the class "desc" represent boxes with different content.</li></li>
+<li list type style="circle">There's a 'div' element with the class "container" that contains various other elements.</li>
+<li> Two 'div' elements with the class "desc" represent boxes with different content.</li>
 <li> An 'ul' (unordered list) element contains two list items, each with a 'div' having the class "list".</li>
-<li> A 'p' element with the class "para" contains text along with a 'button' and an 'a' (anchor) element. </li></li>
+<li> A 'p' element with the class "para" contains text along with a 'button' and an 'a' (anchor) element. </li>
 
 # Sumbission Required
 - Hosted Link:[click here](https://namishagurunani.github.io/BoxmodelP/)
