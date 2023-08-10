@@ -8,11 +8,11 @@
 <li> A 'p' element with the class "para" contains text along with a 'button' and an 'a' (anchor) element. </li></ul>
 
 # CSS Code:
-<ul>*: Applies styles to all elements on the page.
+<ul><li>*: Applies styles to all elements on the page.</li>
 <li>margin, padding, box-sizing: Resets default margin and padding to 0 for all elements and ensures the box-sizing model is set to "border-box."</li>
 <li>.container: Styles the main container with a border, font family, width, margin, and padding.</li>
 <li>.desc: Styles for the description boxes, including border, padding, and margin.</li>
-<li>ul .desc: Specific styling for .desc elements within an unordered list (<ul>).</li>
+<li>ul .desc: Specific styling for .desc elements within an unordered list ('ul').</li>
 <li>.list: Styles for list items (boxes) within the unordered list.</li>
 <li>.para: Styles for paragraphs, including margin and alignment.</li>
 <li>button and a: Styles for buttons and links, including border, padding, font size, and color.</li>
