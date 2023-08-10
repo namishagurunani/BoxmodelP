@@ -7,6 +7,18 @@
 <li> An 'ul' (unordered list) element contains two list items, each with a 'div' having the class "list".</li>
 <li> A 'p' element with the class "para" contains text along with a 'button' and an 'a' (anchor) element. </li></ul>
 
+# CSS Code:
+<ul>*: Applies styles to all elements on the page.
+<li>margin, padding, box-sizing: Resets default margin and padding to 0 for all elements and ensures the box-sizing model is set to "border-box."</li>
+<li>.container: Styles the main container with a border, font family, width, margin, and padding.</li>
+<li>.desc: Styles for the description boxes, including border, padding, and margin.</li>
+<li>ul .desc: Specific styling for .desc elements within an unordered list (<ul>).</li>
+<li>.list: Styles for list items (boxes) within the unordered list.</li>
+<li>.para: Styles for paragraphs, including margin and alignment.</li>
+<li>button and a: Styles for buttons and links, including border, padding, font size, and color.</li>
+<li>ul: Styles for unordered lists, adjusting the margin to remove default indentation.</li></ul>
+
+
 # Sumbission Required
 - Hosted Link:[click here](https://namishagurunani.github.io/BoxmodelP/)
 - Github Link:[click here](https://github.com/namishagurunani/BoxmodelP)
